@@ -1,0 +1,48 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity cache
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE / Visual Studio
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Crash reports
+sysinfo.txt
+
+# Build files
+*.apk
+*.aab
+*.unitypackage
+
+# Plastic SCM generated files
+.plastic/
+
+# Rider
+.idea/
+*.DotSettings.user
